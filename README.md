@@ -52,12 +52,30 @@
 <br/>
 <br/>
 
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="53"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="53"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> <img src="https://cdn.discordapp.com/attachments/966819730616901752/1043371388658004018/rust.gif" width="55"/> <img align="right" alt="M-pic" height="180"  src="https://cdn.discordapp.com/attachments/966819730616901752/1032012159846203412/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif">  
 
-## 
- 
-[![img](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjunios/) [![img](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimundojuniosantos@outlook.com.br) [![img](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-júnio-santos-979528279) [![img](https://komarev.com/ghpvc/?username=MundaoRJS&style=for-the-badge)](https://github.com/MundaoRJS/)
+ <div align="center"> 
+<a href="https://www.instagram.com/rjunios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:raimundojuniosantos@outlook.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/raimundo-júnio-santos-979528279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
+ ### Main skills:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-java-F4C15B?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+### Prototyping Platforms
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
+![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)&nbsp;
+### Studying in this moment:
+![Java](https://img.shields.io/badge/-java-F4C15B?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)&nbsp;
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MundaoRJS&bg_color=09021d&color=694c9e&line=5a4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
